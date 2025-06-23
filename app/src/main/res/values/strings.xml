@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">PracticeIIApplication</string>
-    <string name="text_input">Hint text here</string>
+    <string name="listview_title">ListView Title</string>
+    <string name="listview_subtitle">ListView Subtitle</string>
+    <string name="desc_title">Desc Title</string>
+    <string name="desc_subtitle">Desc Subtitle</string>
 </resources>

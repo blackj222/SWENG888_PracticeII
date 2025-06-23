@@ -13,6 +13,9 @@
         android:theme="@style/Theme.PracticeIIApplication"
         tools:targetApi="31">
         <activity
+            android:name=".Description"
+            android:exported="false" />
+        <activity
             android:name=".MainPracticeII"
             android:exported="true">
             <intent-filter>
